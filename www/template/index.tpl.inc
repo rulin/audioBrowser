@@ -8,7 +8,7 @@ $html .= <<<HTML
 <html>
   <head>
     <meta charset="utf-8">
-    <title>audioPlayer</title>
+    <title>audioBrowser</title>
     <link href="/style/style.css" rel="stylesheet" type="text/css" />
 HTML;
 
