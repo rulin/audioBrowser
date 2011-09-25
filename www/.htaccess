@@ -1,3 +1,8 @@
+AuthType Basic   
+AuthName "Private zone. Only for me" 
+AuthUserFile  /var/www/audioplayer/.htpasswd   
+require valid-user
+
 DirectoryIndex index.php
 Options -Indexes
 

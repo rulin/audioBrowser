@@ -4,3 +4,11 @@ body {
 	background: #f6f6f0; 
 	color: #330; 
 }
+
+.dir {
+	margin: 3px 0px;
+}
+
+.file {
+	margin: 3px 0px;	
+}
